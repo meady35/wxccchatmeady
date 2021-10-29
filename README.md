@@ -1,2 +1,2 @@
 # wxccchatmeady
-WxCC Chat 
+WxCC Chat Page
